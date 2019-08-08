@@ -5,5 +5,7 @@
     "typescript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
     "prettier.eslintIntegration": true,
     "prettier.singleQuote": true,
-    "prettier.useTabs": true
+    "prettier.useTabs": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true
 }
